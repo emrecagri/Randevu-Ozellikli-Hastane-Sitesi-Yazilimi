@@ -48,3 +48,9 @@ Kullanıcı Adı: admin
 <img src="Screenshots/Ekran Görüntüsü (232).png" height="450">
 <img src="Screenshots/Ekran Görüntüsü (233).png" height="450">
 <img src="Screenshots/Ekran Görüntüsü (234).png" height="450">
+
+---
+
+# Credits
+
+Theme: Tooplate - 2098 Health
