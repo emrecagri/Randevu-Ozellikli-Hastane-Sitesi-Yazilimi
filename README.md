@@ -53,4 +53,5 @@ Kullanıcı Adı: admin
 
 # Credits
 
-Theme: Tooplate - 2098 Health
+Web Site Theme: tooplate.com - 2098 Health
+Form Theme: colorlib.com
