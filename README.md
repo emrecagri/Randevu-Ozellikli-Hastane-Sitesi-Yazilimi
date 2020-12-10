@@ -51,7 +51,7 @@ Kullanıcı Adı: admin
 
 ---
 
-# Credits
+# Yararlandığım Kaynaklar
 
 Web Site Theme: tooplate.com - Health Center
 <br>Form Theme: colorlib.com - Contact Form v3 - Login Form 9
