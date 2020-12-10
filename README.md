@@ -6,6 +6,14 @@
 
 ---
 
+Online olarak randevu alınabiliyor ve tek tuş ile iptal edilebiliyor. Alınan yada alınıp iptal edilen bu randevular sitenin yönetim panelinden görüntülenebiliyor, düzenlenebiliyor, iptal edilebiliyor ve silinebiliyor.
+
+Yine yönetim paneli üzerinden yeni bir yönetici hesabı oluşturulabiliyor, şifre ve diğer bilgiler değiştirilebiliyor ve silinebiliyor.
+
+Var olan yönetici hesabının şifresi unutulursa şifre hatırlatma işlemi yapılabiliyor.
+
+---
+
 # Siteyi çalıştırmak için
 aşağıdaki işlemleri yapın yoksa site düzgün çalışmayacaktır. 
 uzak sunucunuzdaki yada localhosttaki veritabanınızda yeni bir veritabanı oluşturun ardından oluşturduğunuz veritabanını açıp içe aktar bölümünden .sql uzantılı dosyayı yükleyin. Localhost için XAMPP programını tavsiye ediyorum.
@@ -51,7 +59,7 @@ Kullanıcı Adı: admin
 
 ---
 
-# Yararlandığım Kaynaklar
+# Kullanılan Kaynaklar
 
 Web Site Theme: tooplate.com - Health Center
 <br>Form Theme: colorlib.com - Contact Form v3 - Login Form 9
